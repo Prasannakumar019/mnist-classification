@@ -13,12 +13,28 @@ Include the neural network model diagram.
 ## DESIGN STEPS
 
 ### STEP 1:
+Download and load the dataset
 
 ### STEP 2:
+Scale the dataset between it's min and max values
 
 ### STEP 3:
+Using one hot encode, encode the categorical values
 
-Write your own steps
+### STEP 4:
+Split the data into train and test
+
+### STEP 5:
+Build the convolutional neural network model
+
+### STEP 6:
+Train the model with the training data
+
+### STEP 7:
+Plot the performance plot
+
+### STEP 8:
+Evaluate the model with the testing data
 
 ## PROGRAM
 ```python3
