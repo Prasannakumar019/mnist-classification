@@ -1,4 +1,6 @@
-# Convolutional Deep Neural Network for Digit Classification
+## EX.NO:03
+## DATE:19.09.2022
+# <p align="center">Convolutional Deep Neural Network for Digit Classification
 
 ## AIM
 
@@ -48,6 +50,8 @@ Fit the model and predict the single input
 
 ## PROGRAM
 ```python3
+Developed By: PrasannaKumar M
+Register No: 212220230035
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D
